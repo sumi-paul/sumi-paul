@@ -3,15 +3,6 @@
 ###
 
 <p align="left">I'm an undergraduate Computer Science student at ULAB and a passionate tech enthusiast. Currently, I'm exploring cybersecurity, solving problems on TryHackMe and HackTheBox, and engaging in CTF challenges. I love learning new things and expanding my knowledge in tech.</p>
-
-###
-
-<h2 align="left">## 🚀 What I'm Exploring:</h2>
-
-###
-
-<p align="left">- 🔐 Cybersecurity & Ethical Hacking<br>- 🖥️ CTF Challenges & Capture the Flag<br>- 💡 Learning new technologies</p>
-
 ###
 
 <h2 align="left">## 🛠️ Skills & Knowledge:</h2>
